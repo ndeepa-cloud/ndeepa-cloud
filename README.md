@@ -38,7 +38,7 @@
 - 📍 Murray, KY  
 - ✉️ [deepanithinroy9@gmail.com](mailto:deepanithinroy9@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/) *( https://www.linkedin.com/in/nithin-deepa-a246a0287/)*  
-- 🌐 Portfolio Website: *(coming soon via GitHub Pages!)*  
+- 🌐 Portfolio Website (https://ndeepa-cloud.github.io) 
 
 
 
