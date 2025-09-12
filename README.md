@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithin Deepa  
 
-🎓 **Sophomore in Computer Science @ Murray State University (Class of 2027)**  
+🎓 ** Junior in Computer Science @ Murray State University (Class of 2027)**  
 💻 Passionate about **Software Development, Data Analytics, and Cloud Computing**  
 🌱 Currently seeking a **Summer 2026 Internship** in Software Engineering / Data Analytics  
 ✨ President, **Indian Student Association (ISA)** – leadership & teamwork experience  
