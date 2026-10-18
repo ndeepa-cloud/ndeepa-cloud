@@ -1,10 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:17113C,50:5B21B6,100:7C3AED&height=190&section=header&text=Nithin%20Deepa&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%7C%20Software%20Engineering%20%7C%20GenAI%20%26%20LLMs&descAlignY=60&descSize=16)
+<h1 align="center">Nithin Deepa</h1>
+
+<h3 align="center">AI Engineer · Software Engineer · GenAI &amp; LLM Applications</h3>
+
+<p align="center"><img alt="Purple profile accent" src="https://img.shields.io/badge/AI%20%26%20GenAI%20ENGINEERING-6D28D9?style=for-the-badge" /></p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+AI-powered+software+applications;Python+%7C+FastAPI+%7C+React+%7C+LangChain;LLMs+%7C+RAG+%7C+Backend+Engineering;May+2027+%7C+Murray+State+University)
 
-![Education](https://img.shields.io/badge/B.S.-Computer%20Science-6D28D9?style=flat-square) ![Graduation](https://img.shields.io/badge/Graduating-May%202027-4338CA?style=flat-square) ![Location](https://img.shields.io/badge/Location-Murray%2C%20KY-7C3AED?style=flat-square)
+![Education](https://img.shields.io/badge/B.S.-Computer%20Science-6D28D9?style=flat-square) ![Graduation](https://img.shields.io/badge/Graduating-May%202027-4338CA?style=flat-square) ![Location](https://img.shields.io/badge/Location-United%20States-7C3AED?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-deepa/) [![GitHub](https://img.shields.io/badge/GitHub-ndeepa--cloud-181717?style=for-the-badge&logo=github)](https://github.com/ndeepa-cloud)
 
@@ -227,6 +231,6 @@ For email and portfolio buttons, add your verified public contact address and po
 
 *Building thoughtful software and practical AI experiences, one project at a time.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:17113C,50:5B21B6,100:7C3AED&height=110&section=footer)
+<p align="center"><strong>Building practical AI-powered software, one project at a time.</strong></p>
 
 </div>
